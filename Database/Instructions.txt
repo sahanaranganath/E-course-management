@@ -1,0 +1,7 @@
+1) Create a databse named "lms_db"
+2) Import "lms_db.sql"
+
+------------------------
+admin user id: admin@gmail.com
+password: admin
+-------------------
