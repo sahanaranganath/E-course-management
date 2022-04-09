@@ -1,4 +1,5 @@
 # E-course-management
+
 ABSTARCT: 
 Online education has gained a lot of popularity in the recent time. Internet and distance learning 
 which is generally known as online education plays a vital roles in the country's education system. 
@@ -58,7 +59,9 @@ INSTRUCTIONS:
 
 ------------------------
 The admin login will be found in the footer of the page
+
 admin user id: admin@gmail.com
+
 password: admin
 
 -------------------
