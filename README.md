@@ -15,7 +15,11 @@ required data in the place so that it is accessible by the users and the admin.
 The internal database will be developed using MySQL. The frontend is dominated using PhP. The 
 user level accessibility has been restricted into two zones the administrative and the normal user 
 zone.
+
+
 TITLE: E-Course Management System
+
+
 INTRODUCTION: 
 The concept of traditional education has changed radically within the last couple of years. The 
 period of the covid pandemic has increased the interests of online courses drastically. An E-course 
@@ -35,6 +39,8 @@ database. The system provides information regarding the different courses that a
 their status specific to availability. The users can visit the site and register themselves with required 
 information that is expected by the system. Each registered user can raise a request to the purchase 
 of these courses.
+
+
 OBJECTIVES:
 The main aim of this project is to develop a Database management system for creating and 
 managing a Database for a platform that offers E-courses. It should provide a systematic way to 
